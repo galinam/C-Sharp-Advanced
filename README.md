@@ -6,7 +6,7 @@
     Task 03. Sequence in matrix
     Task 07. Largest area in matrix
     
-## C# Advanced - 03. Methods</br>
+## C# Advanced - 02. Methods</br>
     Task 01. Say Hello
     Task 02. Get largest number
     Task 03. English digit
