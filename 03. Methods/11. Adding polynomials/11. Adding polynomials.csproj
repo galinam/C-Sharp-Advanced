@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{095606BB-1D27-443B-8ADA-94A55B9F9911}</ProjectGuid>
+    <ProjectGuid>{8C30C20A-AAE5-45FE-922F-7B40C210F6DF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_07.Largest_area_in_matrix</RootNamespace>
-    <AssemblyName>_07.Largest_area_in_matrix</AssemblyName>
+    <RootNamespace>_11.Adding_polynomials</RootNamespace>
+    <AssemblyName>_11.Adding_polynomials</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

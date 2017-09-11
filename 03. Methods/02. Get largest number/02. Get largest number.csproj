@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{095606BB-1D27-443B-8ADA-94A55B9F9911}</ProjectGuid>
+    <ProjectGuid>{C4789B21-CF5E-4EAE-9E6C-626487C96221}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_07.Largest_area_in_matrix</RootNamespace>
-    <AssemblyName>_07.Largest_area_in_matrix</AssemblyName>
+    <RootNamespace>_02.Get_largest_number</RootNamespace>
+    <AssemblyName>_02.Get_largest_number</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

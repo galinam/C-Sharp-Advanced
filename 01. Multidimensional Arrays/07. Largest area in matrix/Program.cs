@@ -15,9 +15,9 @@ class LargestAreaInMatrix
     {
         matrix = GenerateMatrix();
         LargestArea();
-        Console.WriteLine(result);
+        Console.WriteLine(result); 
     }
-
+    
     static void LargestArea()
     {
 
