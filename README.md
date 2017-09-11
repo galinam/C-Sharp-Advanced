@@ -19,3 +19,13 @@
     Task 10. N Factorial
     Task 11. Adding polynomials
     Task 14. Integer calculations
+
+## C# Advanced - 03. Numeral Systems</br>
+    Task 01. Decimal to binary
+    Task 02. Binary to decimal
+    Task 03. Decimal to hexadecimal
+    Task 04. Hexadecimal to decimal
+    Task 05. Hexadecimal to binary
+    Task 06. Binary to hexadecimal
+    Task 07. One system to any other
+    Task 08. Binary short
