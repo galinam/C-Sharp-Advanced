@@ -29,3 +29,22 @@
     Task 06. Binary to hexadecimal
     Task 07. One system to any other
     Task 08. Binary short
+
+## C# Advanced - 04. Using Classes and Objects</br>
+    Task 01. Leap year
+    Task 04. Triangle surface by side and altitude
+    Task 05. Triangle surface by three sides
+    Task 06. Triangle surface by two sides and an angle
+    Task 08. Sum integers
+    
+## C# Advanced - 05. Strings and Text Processing</br>
+    Task 02. Reverse string
+    Task 03. Correct brackets
+    Task 04. Sub-string in text
+    Task 05. Parse tags
+    Task 06. String length
+    Task 08. Extract sentences
+    Task 10. Unicode characters
+    Task 12. Parse URL
+    Task 15. Replace tags
+    Task 23. Series of letters
