@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{361B42CF-1D1B-4185-B3F0-CF7A8D6B9231}</ProjectGuid>
+    <ProjectGuid>{A7006D97-B01D-4A77-A00B-3152B46A5698}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_14.Integer_calculations</RootNamespace>
-    <AssemblyName>_14.Integer_calculations</AssemblyName>
+    <RootNamespace>_01.Decimal_to_binary</RootNamespace>
+    <AssemblyName>_01.Decimal_to_binary</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

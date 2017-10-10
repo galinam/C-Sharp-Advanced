@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{361B42CF-1D1B-4185-B3F0-CF7A8D6B9231}</ProjectGuid>
+    <ProjectGuid>{348E8FF7-5CD4-4286-9186-EB138126F876}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_14.Integer_calculations</RootNamespace>
-    <AssemblyName>_14.Integer_calculations</AssemblyName>
+    <RootNamespace>_07.One_system_to_any_other</RootNamespace>
+    <AssemblyName>_07.One_system_to_any_other</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
