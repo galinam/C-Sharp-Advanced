@@ -48,3 +48,11 @@
     Task 12. Parse URL
     Task 15. Replace tags
     Task 23. Series of letters
+    
+## C# Advanced - 07. Exception Handling</br>
+    Task 01. Square root 
+    Task 02. Enter numbers
+    
+## Workshop-Arrays Methods Objects</br>
+    Task 01. Messages 
+    Task 03. Bit Shift Matrix 
