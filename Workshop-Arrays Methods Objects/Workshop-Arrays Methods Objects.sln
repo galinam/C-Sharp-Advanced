@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1. Messages", "Task 1. Messages\Task 1. Messages.csproj", "{5A041745-292C-4255-A623-CC9EAA5C4547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3. Bit Shift Matrix", "Task 3. Bit Shift Matrix\Task 3. Bit Shift Matrix.csproj", "{2281A312-E6C3-4942-92F4-010645DAF3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A041745-292C-4255-A623-CC9EAA5C4547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A041745-292C-4255-A623-CC9EAA5C4547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A041745-292C-4255-A623-CC9EAA5C4547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A041745-292C-4255-A623-CC9EAA5C4547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2281A312-E6C3-4942-92F4-010645DAF3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2281A312-E6C3-4942-92F4-010645DAF3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2281A312-E6C3-4942-92F4-010645DAF3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2281A312-E6C3-4942-92F4-010645DAF3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
