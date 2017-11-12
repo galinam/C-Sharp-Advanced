@@ -49,10 +49,26 @@
     Task 15. Replace tags
     Task 23. Series of letters
     
-## C# Advanced - 07. Exception Handling</br>
+## C# Advanced - 06. Exception Handling</br>
     Task 01. Square root 
     Task 02. Enter numbers
     
 ## Workshop-Arrays Methods Objects</br>
     Task 01. Messages 
     Task 03. Bit Shift Matrix 
+
+## C# Advanced - 07. TextFiles</br>
+    Task 01. Odd lines	
+    Task 02. Concatenate text files	
+    Task 03. Line numbers	
+    Task 04. Compare text files	
+    Task 05. Maximal area sum	
+    Task 06. Save sorted names	
+    Task 07. Replace sub-string	
+    Task 08. Replace whole word	
+    Task 09. Delete odd lines	
+    Task 10. Extract text from XML	
+    Task 11. Prefix test		
+    Task 12. Remove words	
+    Task 13. Count words
+    
