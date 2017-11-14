@@ -20,7 +20,6 @@ class Program
 
         field = new BigInteger[rows, cols];
         FillMatrix();
-        PrintMatrix(field);
 
         //logic
         BigInteger sum = 0;

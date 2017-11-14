@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Square root", "01. Square root\01. Square root.csproj", "{DA4BF71C-B109-429C-9F82-ED51D90C7350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestThrowException", "TestThrowException\TestThrowException.csproj", "{EEEF96F4-6890-4188-8DE0-07B9E5AB8D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Enter numbers", "02. Enter numbers\02. Enter numbers.csproj", "{ED068F88-99C1-426D-BCDC-F078FA8BD19C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4BF71C-B109-429C-9F82-ED51D90C7350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4BF71C-B109-429C-9F82-ED51D90C7350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4BF71C-B109-429C-9F82-ED51D90C7350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4BF71C-B109-429C-9F82-ED51D90C7350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEF96F4-6890-4188-8DE0-07B9E5AB8D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEF96F4-6890-4188-8DE0-07B9E5AB8D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEF96F4-6890-4188-8DE0-07B9E5AB8D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEF96F4-6890-4188-8DE0-07B9E5AB8D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED068F88-99C1-426D-BCDC-F078FA8BD19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED068F88-99C1-426D-BCDC-F078FA8BD19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED068F88-99C1-426D-BCDC-F078FA8BD19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED068F88-99C1-426D-BCDC-F078FA8BD19C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
