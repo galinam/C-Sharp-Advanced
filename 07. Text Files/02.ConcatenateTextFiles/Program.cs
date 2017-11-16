@@ -32,10 +32,20 @@ Programming languages can be used to create programs that implement specific alg
             fileTwoContent = reader.ReadToEnd();
         }
 
+        string fileName = @"..\..\ConcatenateText.txt";
+        bool appendToFile = true;
         using (StreamWriter writer = File.CreateText(@"..\..\ConcatenateText.txt"))    //is equals to new StreamWriter(@"..\..\ConcatenateText.txt")
         {
-            //writer.Write(String.Format(fileOneContent + Environment.NewLine + fileTwoContent));
-            File.AppendAllText(@"..\..\ConcatenateText.txt", String.Format("{0}{1}{2}", fileOneContent, Environment.NewLine, fileTwoContent));
+            writer.Write(String.Format(fileOneContent));
+            //File.AppendAllText(@"..\..\ConcatenateText.txt", String.Format("{0}{1}{2}", fileOneContent, Environment.NewLine, fileTwoContent));
+        }
+        using (StreamWriter writer = new StreamWriter(fileName, appendToFile))    
+        {
+            writer.WriteLine(String.Format(Environment.NewLine));
+        }
+        using (StreamWriter writer = new StreamWriter(fileName, appendToFile))    
+        {
+            writer.Write(String.Format(fileTwoContent));
         }
     }
 }
