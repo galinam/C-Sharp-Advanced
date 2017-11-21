@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1. Mythical numbers", "Task 1. Mythical numbers\Task 1. Mythical numbers.csproj", "{6D4DA868-A057-4A04-9955-FDE16F1F16DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2. Jump, Jump", "Task 2. Jump, Jump\Task 2. Jump, Jump.csproj", "{E8C02929-0815-4284-9688-88FF544D6FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3.Hidden Message", "Task 3.Hidden Message\Task 3.Hidden Message.csproj", "{73D67791-7584-4CE5-9CA8-C26E310689E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 4.Mixing numbers", "Task 4.Mixing numbers\Task 4.Mixing numbers.csproj", "{78388537-549A-43B1-BF2E-E75A1E686A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D4DA868-A057-4A04-9955-FDE16F1F16DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4DA868-A057-4A04-9955-FDE16F1F16DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4DA868-A057-4A04-9955-FDE16F1F16DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4DA868-A057-4A04-9955-FDE16F1F16DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C02929-0815-4284-9688-88FF544D6FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C02929-0815-4284-9688-88FF544D6FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C02929-0815-4284-9688-88FF544D6FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C02929-0815-4284-9688-88FF544D6FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D67791-7584-4CE5-9CA8-C26E310689E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D67791-7584-4CE5-9CA8-C26E310689E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D67791-7584-4CE5-9CA8-C26E310689E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D67791-7584-4CE5-9CA8-C26E310689E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78388537-549A-43B1-BF2E-E75A1E686A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78388537-549A-43B1-BF2E-E75A1E686A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78388537-549A-43B1-BF2E-E75A1E686A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78388537-549A-43B1-BF2E-E75A1E686A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
