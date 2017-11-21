@@ -72,3 +72,20 @@
     Task 12. Remove words	
     Task 13. Count words
     
+## C# Advanced - 10.Workshop-StringsAndText</br>
+    Task 01.DecodeAndDecrypt
+    Task Censorship
+    Task ComparingStrings
+    Task CompressString
+    Task ConcatVsAppend
+    Task CountWithSplit
+    Task ExtractComments
+    Task ParseMarkdownUpperLower
+    Task SanitizeText
+    Task SearcingInStrings
+    
+## C# Advanced - Workshop Exam - 10 November 2016 / Telerik Academy Season 2016-2017
+    Task 01. Mythical numbers
+    Task 02. Jump, Jump
+    Task 03. Hidden Message
+    Task 04. Mixing numbers
